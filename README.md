@@ -1,3 +1,5 @@
+# Raytracer
+
 ## Table of Contents
 - Introduction
 - License
